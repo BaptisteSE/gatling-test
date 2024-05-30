@@ -67,3 +67,12 @@ jobs:
 
     - name: Run Gatling Load Tests
       run: cd api-performance-test && mvn gatling:test '-DclassName=tests.SmokeTest'
+      
+    - name: Check for test failures
+      run: |
+        FAILURES=$(grep -oP '(?<=KO\s|).*?(?=\s)' api-performance-test/target/gatling/**/simulation.log | wc -l)
+        echo "Number of failed tests: $FAILURES"
+        if [ "$FAILURES" -gt 20 ]; then
+          echo "More than 20 test failures. Failing the job."
+          exit 1
+        fi
