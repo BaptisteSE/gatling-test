@@ -19,7 +19,10 @@ jobs:
         node-version: '16'
 
     - name: Install NestJS dependencies
-      run: cd test-and-quality-bowling-score && npm install
+      run: |
+        cd test-and-quality-bowling-score
+        npm install
+        chmod +x ./node_modules/.bin/jest
 
     - name: Run NestJS Unit Tests
       run: cd test-and-quality-bowling-score && npm test
