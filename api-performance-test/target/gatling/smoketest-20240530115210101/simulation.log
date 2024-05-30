@@ -1,0 +1,301 @@
+RUN	tests.SmokeTest	smoketest	1717069930101	 	3.9.0
+USER	ComputerSearch	START	1717069930973
+REQUEST		search	1717069930959	1717069930974	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069930990
+USER	ComputerSearch	START	1717069931019
+REQUEST		search	1717069931018	1717069931020	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931022
+USER	ComputerSearch	START	1717069931111
+REQUEST		search	1717069931111	1717069931112	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931114
+USER	ComputerSearch	START	1717069931223
+REQUEST		search	1717069931223	1717069931224	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931226
+USER	ComputerSearch	START	1717069931317
+REQUEST		search	1717069931317	1717069931318	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931321
+USER	ComputerSearch	START	1717069931413
+REQUEST		search	1717069931412	1717069931414	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931416
+USER	ComputerSearch	START	1717069931525
+REQUEST		search	1717069931524	1717069931526	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931528
+USER	ComputerSearch	START	1717069931618
+REQUEST		search	1717069931618	1717069931619	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931622
+USER	ComputerSearch	START	1717069931712
+REQUEST		search	1717069931712	1717069931713	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931716
+USER	ComputerSearch	START	1717069931822
+REQUEST		search	1717069931821	1717069931823	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931825
+USER	ComputerSearch	START	1717069931915
+REQUEST		search	1717069931915	1717069931916	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069931918
+USER	ComputerSearch	START	1717069932025
+REQUEST		search	1717069932025	1717069932026	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932028
+USER	ComputerSearch	START	1717069932120
+REQUEST		search	1717069932119	1717069932121	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932123
+USER	ComputerSearch	START	1717069932216
+REQUEST		search	1717069932215	1717069932217	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932220
+USER	ComputerSearch	START	1717069932312
+REQUEST		search	1717069932311	1717069932313	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932315
+USER	ComputerSearch	START	1717069932423
+REQUEST		search	1717069932423	1717069932424	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932427
+USER	ComputerSearch	START	1717069932518
+REQUEST		search	1717069932517	1717069932519	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932521
+USER	ComputerSearch	START	1717069932614
+REQUEST		search	1717069932613	1717069932615	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932617
+USER	ComputerSearch	START	1717069932727
+REQUEST		search	1717069932727	1717069932728	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932730
+USER	ComputerSearch	START	1717069932822
+REQUEST		search	1717069932821	1717069932823	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932825
+USER	ComputerSearch	START	1717069932918
+REQUEST		search	1717069932917	1717069932919	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069932921
+USER	ComputerSearch	START	1717069933013
+REQUEST		search	1717069933012	1717069933014	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933016
+USER	ComputerSearch	START	1717069933109
+REQUEST		search	1717069933108	1717069933110	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933112
+USER	ComputerSearch	START	1717069933220
+REQUEST		search	1717069933219	1717069933221	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933223
+USER	ComputerSearch	START	1717069933316
+REQUEST		search	1717069933315	1717069933317	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933319
+USER	ComputerSearch	START	1717069933412
+REQUEST		search	1717069933411	1717069933413	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933415
+USER	ComputerSearch	START	1717069933523
+REQUEST		search	1717069933522	1717069933523	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933526
+USER	ComputerSearch	START	1717069933618
+REQUEST		search	1717069933617	1717069933619	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933621
+USER	ComputerSearch	START	1717069933714
+REQUEST		search	1717069933713	1717069933714	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933717
+USER	ComputerSearch	START	1717069933810
+REQUEST		search	1717069933809	1717069933811	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933813
+USER	ComputerSearch	START	1717069933922
+REQUEST		search	1717069933921	1717069933923	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069933925
+USER	ComputerSearch	START	1717069934017
+REQUEST		search	1717069934017	1717069934018	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934021
+USER	ComputerSearch	START	1717069934113
+REQUEST		search	1717069934112	1717069934113	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934116
+USER	ComputerSearch	START	1717069934208
+REQUEST		search	1717069934207	1717069934209	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934211
+USER	ComputerSearch	START	1717069934319
+REQUEST		search	1717069934319	1717069934320	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934322
+USER	ComputerSearch	START	1717069934415
+REQUEST		search	1717069934414	1717069934415	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934418
+USER	ComputerSearch	START	1717069934510
+REQUEST		search	1717069934509	1717069934511	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934513
+USER	ComputerSearch	START	1717069934620
+REQUEST		search	1717069934620	1717069934621	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934624
+USER	ComputerSearch	START	1717069934715
+REQUEST		search	1717069934714	1717069934715	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934718
+USER	ComputerSearch	START	1717069934810
+REQUEST		search	1717069934810	1717069934811	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934813
+USER	ComputerSearch	START	1717069934920
+REQUEST		search	1717069934919	1717069934921	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069934923
+USER	ComputerSearch	START	1717069935014
+REQUEST		search	1717069935014	1717069935015	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935017
+USER	ComputerSearch	START	1717069935108
+REQUEST		search	1717069935108	1717069935109	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935111
+USER	ComputerSearch	START	1717069935218
+REQUEST		search	1717069935217	1717069935218	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935221
+USER	ComputerSearch	START	1717069935311
+REQUEST		search	1717069935311	1717069935312	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935314
+USER	ComputerSearch	START	1717069935420
+REQUEST		search	1717069935419	1717069935420	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935422
+USER	ComputerSearch	START	1717069935514
+REQUEST		search	1717069935514	1717069935515	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935517
+USER	ComputerSearch	START	1717069935610
+REQUEST		search	1717069935609	1717069935610	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935612
+USER	ComputerSearch	START	1717069935719
+REQUEST		search	1717069935719	1717069935720	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935722
+USER	ComputerSearch	START	1717069935813
+REQUEST		search	1717069935813	1717069935814	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935816
+USER	ComputerSearch	START	1717069935908
+REQUEST		search	1717069935908	1717069935909	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069935911
+USER	ComputerSearch	START	1717069936018
+REQUEST		search	1717069936018	1717069936019	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936021
+USER	ComputerSearch	START	1717069936114
+REQUEST		search	1717069936113	1717069936115	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936117
+USER	ComputerSearch	START	1717069936208
+REQUEST		search	1717069936207	1717069936208	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936210
+USER	ComputerSearch	START	1717069936317
+REQUEST		search	1717069936317	1717069936318	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936320
+USER	ComputerSearch	START	1717069936413
+REQUEST		search	1717069936412	1717069936413	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936415
+USER	ComputerSearch	START	1717069936523
+REQUEST		search	1717069936522	1717069936523	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936525
+USER	ComputerSearch	START	1717069936618
+REQUEST		search	1717069936617	1717069936618	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936620
+USER	ComputerSearch	START	1717069936710
+REQUEST		search	1717069936709	1717069936710	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936712
+USER	ComputerSearch	START	1717069936819
+REQUEST		search	1717069936818	1717069936819	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936821
+USER	ComputerSearch	START	1717069936914
+REQUEST		search	1717069936914	1717069936915	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069936917
+USER	ComputerSearch	START	1717069937008
+REQUEST		search	1717069937008	1717069937009	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937011
+USER	ComputerSearch	START	1717069937120
+REQUEST		search	1717069937120	1717069937122	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937124
+USER	ComputerSearch	START	1717069937215
+REQUEST		search	1717069937214	1717069937216	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937218
+USER	ComputerSearch	START	1717069937310
+REQUEST		search	1717069937310	1717069937311	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937313
+USER	ComputerSearch	START	1717069937422
+REQUEST		search	1717069937421	1717069937422	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937424
+USER	ComputerSearch	START	1717069937517
+REQUEST		search	1717069937517	1717069937518	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937520
+USER	ComputerSearch	START	1717069937613
+REQUEST		search	1717069937612	1717069937613	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937615
+USER	ComputerSearch	START	1717069937723
+REQUEST		search	1717069937722	1717069937723	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937725
+USER	ComputerSearch	START	1717069937817
+REQUEST		search	1717069937816	1717069937818	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937820
+USER	ComputerSearch	START	1717069937926
+REQUEST		search	1717069937926	1717069937927	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069937929
+USER	ComputerSearch	START	1717069938021
+REQUEST		search	1717069938020	1717069938021	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938023
+USER	ComputerSearch	START	1717069938116
+REQUEST		search	1717069938115	1717069938117	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938119
+USER	ComputerSearch	START	1717069938211
+REQUEST		search	1717069938210	1717069938211	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938214
+USER	ComputerSearch	START	1717069938322
+REQUEST		search	1717069938321	1717069938322	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938324
+USER	ComputerSearch	START	1717069938416
+REQUEST		search	1717069938415	1717069938417	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938419
+USER	ComputerSearch	START	1717069938510
+REQUEST		search	1717069938510	1717069938511	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938513
+USER	ComputerSearch	START	1717069938621
+REQUEST		search	1717069938621	1717069938622	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938624
+USER	ComputerSearch	START	1717069938715
+REQUEST		search	1717069938715	1717069938716	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938718
+USER	ComputerSearch	START	1717069938810
+REQUEST		search	1717069938810	1717069938811	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938813
+USER	ComputerSearch	START	1717069938922
+REQUEST		search	1717069938922	1717069938923	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069938925
+USER	ComputerSearch	START	1717069939018
+REQUEST		search	1717069939017	1717069939018	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939020
+USER	ComputerSearch	START	1717069939113
+REQUEST		search	1717069939113	1717069939114	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939116
+USER	ComputerSearch	START	1717069939209
+REQUEST		search	1717069939208	1717069939210	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939212
+USER	ComputerSearch	START	1717069939321
+REQUEST		search	1717069939320	1717069939321	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939323
+USER	ComputerSearch	START	1717069939415
+REQUEST		search	1717069939414	1717069939415	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939417
+USER	ComputerSearch	START	1717069939509
+REQUEST		search	1717069939508	1717069939509	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939511
+USER	ComputerSearch	START	1717069939619
+REQUEST		search	1717069939619	1717069939620	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939622
+USER	ComputerSearch	START	1717069939715
+REQUEST		search	1717069939715	1717069939716	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939718
+USER	ComputerSearch	START	1717069939811
+REQUEST		search	1717069939810	1717069939811	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939813
+USER	ComputerSearch	START	1717069939921
+REQUEST		search	1717069939921	1717069939922	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069939924
+USER	ComputerSearch	START	1717069940016
+REQUEST		search	1717069940015	1717069940016	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940018
+USER	ComputerSearch	START	1717069940111
+REQUEST		search	1717069940111	1717069940112	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940114
+USER	ComputerSearch	START	1717069940207
+REQUEST		search	1717069940207	1717069940208	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940210
+USER	ComputerSearch	START	1717069940319
+REQUEST		search	1717069940319	1717069940320	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940322
+USER	ComputerSearch	START	1717069940413
+REQUEST		search	1717069940412	1717069940413	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940415
+USER	ComputerSearch	START	1717069940522
+REQUEST		search	1717069940522	1717069940523	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940525
+USER	ComputerSearch	START	1717069940617
+REQUEST		search	1717069940617	1717069940618	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940620
+USER	ComputerSearch	START	1717069940712
+REQUEST		search	1717069940712	1717069940713	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940715
+USER	ComputerSearch	START	1717069940807
+REQUEST		search	1717069940807	1717069940808	KO	j.n.ConnectException: Connection refused: no further information
+USER	ComputerSearch	END	1717069940810

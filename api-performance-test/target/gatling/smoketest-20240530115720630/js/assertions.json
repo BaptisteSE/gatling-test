@@ -1,0 +1,10 @@
+{
+  "simulation": "tests.SmokeTest",
+  "simulationId": "smoketest-20240530115720630",
+  "start": 1717070241581,
+  "description": "",
+  "scenarios": ["ComputerSearch"],
+  "assertions": [
+
+  ]
+}

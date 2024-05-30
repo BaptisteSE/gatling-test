@@ -1,0 +1,10 @@
+{
+  "simulation": "tests.SpikeTest",
+  "simulationId": "spiketest-20240530123333218",
+  "start": 1717072414031,
+  "description": "",
+  "scenarios": ["PostBowlingScore", "PostBowlingScoreSpike"],
+  "assertions": [
+
+  ]
+}

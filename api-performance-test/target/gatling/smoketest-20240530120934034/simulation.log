@@ -1,0 +1,301 @@
+RUN	tests.SmokeTest	smoketest	1717070974034	 	3.9.0
+USER	BowlingScoreScenario	START	1717070974902
+REQUEST		bowling-score	1717070974890	1717070974906	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070974934
+USER	BowlingScoreScenario	START	1717070974961
+REQUEST		bowling-score	1717070974961	1717070974964	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070974967
+USER	BowlingScoreScenario	START	1717070975071
+REQUEST		bowling-score	1717070975071	1717070975074	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975077
+USER	BowlingScoreScenario	START	1717070975165
+REQUEST		bowling-score	1717070975165	1717070975168	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975171
+USER	BowlingScoreScenario	START	1717070975276
+REQUEST		bowling-score	1717070975276	1717070975279	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975282
+USER	BowlingScoreScenario	START	1717070975369
+REQUEST		bowling-score	1717070975369	1717070975371	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975375
+USER	BowlingScoreScenario	START	1717070975463
+REQUEST		bowling-score	1717070975463	1717070975466	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975469
+USER	BowlingScoreScenario	START	1717070975573
+REQUEST		bowling-score	1717070975572	1717070975575	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975579
+USER	BowlingScoreScenario	START	1717070975667
+REQUEST		bowling-score	1717070975667	1717070975669	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975673
+USER	BowlingScoreScenario	START	1717070975775
+REQUEST		bowling-score	1717070975775	1717070975778	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975782
+USER	BowlingScoreScenario	START	1717070975870
+REQUEST		bowling-score	1717070975869	1717070975872	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975876
+USER	BowlingScoreScenario	START	1717070975965
+REQUEST		bowling-score	1717070975965	1717070975967	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070975971
+USER	BowlingScoreScenario	START	1717070976075
+REQUEST		bowling-score	1717070976075	1717070976078	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976081
+USER	BowlingScoreScenario	START	1717070976170
+REQUEST		bowling-score	1717070976169	1717070976173	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976177
+USER	BowlingScoreScenario	START	1717070976264
+REQUEST		bowling-score	1717070976264	1717070976268	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976271
+USER	BowlingScoreScenario	START	1717070976375
+REQUEST		bowling-score	1717070976374	1717070976378	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976382
+USER	BowlingScoreScenario	START	1717070976469
+REQUEST		bowling-score	1717070976469	1717070976473	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976476
+USER	BowlingScoreScenario	START	1717070976579
+REQUEST		bowling-score	1717070976578	1717070976582	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976585
+USER	BowlingScoreScenario	START	1717070976673
+REQUEST		bowling-score	1717070976672	1717070976676	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976680
+USER	BowlingScoreScenario	START	1717070976767
+REQUEST		bowling-score	1717070976766	1717070976770	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976774
+USER	BowlingScoreScenario	START	1717070976878
+REQUEST		bowling-score	1717070976877	1717070976881	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976884
+USER	BowlingScoreScenario	START	1717070976973
+REQUEST		bowling-score	1717070976972	1717070976975	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070976978
+USER	BowlingScoreScenario	START	1717070977066
+REQUEST		bowling-score	1717070977066	1717070977068	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977072
+USER	BowlingScoreScenario	START	1717070977162
+REQUEST		bowling-score	1717070977162	1717070977165	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977168
+USER	BowlingScoreScenario	START	1717070977274
+REQUEST		bowling-score	1717070977274	1717070977276	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977280
+USER	BowlingScoreScenario	START	1717070977370
+REQUEST		bowling-score	1717070977370	1717070977372	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977376
+USER	BowlingScoreScenario	START	1717070977465
+REQUEST		bowling-score	1717070977464	1717070977467	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977471
+USER	BowlingScoreScenario	START	1717070977560
+REQUEST		bowling-score	1717070977559	1717070977562	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977565
+USER	BowlingScoreScenario	START	1717070977671
+REQUEST		bowling-score	1717070977671	1717070977673	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977676
+USER	BowlingScoreScenario	START	1717070977766
+REQUEST		bowling-score	1717070977766	1717070977768	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977772
+USER	BowlingScoreScenario	START	1717070977861
+REQUEST		bowling-score	1717070977860	1717070977862	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977866
+USER	BowlingScoreScenario	START	1717070977971
+REQUEST		bowling-score	1717070977971	1717070977972	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070977976
+USER	BowlingScoreScenario	START	1717070978066
+REQUEST		bowling-score	1717070978065	1717070978067	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978070
+USER	BowlingScoreScenario	START	1717070978175
+REQUEST		bowling-score	1717070978175	1717070978177	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978180
+USER	BowlingScoreScenario	START	1717070978271
+REQUEST		bowling-score	1717070978271	1717070978273	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978277
+USER	BowlingScoreScenario	START	1717070978366
+REQUEST		bowling-score	1717070978366	1717070978367	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978371
+USER	BowlingScoreScenario	START	1717070978461
+REQUEST		bowling-score	1717070978461	1717070978462	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978466
+USER	BowlingScoreScenario	START	1717070978572
+REQUEST		bowling-score	1717070978571	1717070978573	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978577
+USER	BowlingScoreScenario	START	1717070978664
+REQUEST		bowling-score	1717070978664	1717070978665	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978669
+USER	BowlingScoreScenario	START	1717070978775
+REQUEST		bowling-score	1717070978775	1717070978776	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978780
+USER	BowlingScoreScenario	START	1717070978870
+REQUEST		bowling-score	1717070978870	1717070978871	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978875
+USER	BowlingScoreScenario	START	1717070978964
+REQUEST		bowling-score	1717070978964	1717070978966	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070978969
+USER	BowlingScoreScenario	START	1717070979074
+REQUEST		bowling-score	1717070979074	1717070979076	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979079
+USER	BowlingScoreScenario	START	1717070979169
+REQUEST		bowling-score	1717070979168	1717070979170	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979174
+USER	BowlingScoreScenario	START	1717070979263
+REQUEST		bowling-score	1717070979262	1717070979264	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979268
+USER	BowlingScoreScenario	START	1717070979374
+REQUEST		bowling-score	1717070979374	1717070979375	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979379
+USER	BowlingScoreScenario	START	1717070979468
+REQUEST		bowling-score	1717070979468	1717070979469	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979473
+USER	BowlingScoreScenario	START	1717070979562
+REQUEST		bowling-score	1717070979561	1717070979563	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979566
+USER	BowlingScoreScenario	START	1717070979671
+REQUEST		bowling-score	1717070979670	1717070979672	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979675
+USER	BowlingScoreScenario	START	1717070979765
+REQUEST		bowling-score	1717070979765	1717070979766	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979770
+USER	BowlingScoreScenario	START	1717070979875
+REQUEST		bowling-score	1717070979875	1717070979876	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979880
+USER	BowlingScoreScenario	START	1717070979969
+REQUEST		bowling-score	1717070979969	1717070979970	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070979974
+USER	BowlingScoreScenario	START	1717070980062
+REQUEST		bowling-score	1717070980062	1717070980063	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980067
+USER	BowlingScoreScenario	START	1717070980172
+REQUEST		bowling-score	1717070980171	1717070980173	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980177
+USER	BowlingScoreScenario	START	1717070980267
+REQUEST		bowling-score	1717070980267	1717070980268	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980272
+USER	BowlingScoreScenario	START	1717070980361
+REQUEST		bowling-score	1717070980361	1717070980363	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980366
+USER	BowlingScoreScenario	START	1717070980471
+REQUEST		bowling-score	1717070980470	1717070980472	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980475
+USER	BowlingScoreScenario	START	1717070980563
+REQUEST		bowling-score	1717070980563	1717070980564	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980568
+USER	BowlingScoreScenario	START	1717070980673
+REQUEST		bowling-score	1717070980673	1717070980674	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980678
+USER	BowlingScoreScenario	START	1717070980769
+REQUEST		bowling-score	1717070980768	1717070980770	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980773
+USER	BowlingScoreScenario	START	1717070980863
+REQUEST		bowling-score	1717070980863	1717070980864	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980868
+USER	BowlingScoreScenario	START	1717070980971
+REQUEST		bowling-score	1717070980971	1717070980972	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070980976
+USER	BowlingScoreScenario	START	1717070981064
+REQUEST		bowling-score	1717070981064	1717070981066	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981069
+USER	BowlingScoreScenario	START	1717070981174
+REQUEST		bowling-score	1717070981174	1717070981175	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981179
+USER	BowlingScoreScenario	START	1717070981268
+REQUEST		bowling-score	1717070981268	1717070981269	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981272
+USER	BowlingScoreScenario	START	1717070981362
+REQUEST		bowling-score	1717070981362	1717070981363	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981367
+USER	BowlingScoreScenario	START	1717070981473
+REQUEST		bowling-score	1717070981472	1717070981474	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981477
+USER	BowlingScoreScenario	START	1717070981565
+REQUEST		bowling-score	1717070981564	1717070981566	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981569
+USER	BowlingScoreScenario	START	1717070981675
+REQUEST		bowling-score	1717070981675	1717070981676	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981679
+USER	BowlingScoreScenario	START	1717070981771
+REQUEST		bowling-score	1717070981771	1717070981772	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981776
+USER	BowlingScoreScenario	START	1717070981864
+REQUEST		bowling-score	1717070981864	1717070981866	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981869
+USER	BowlingScoreScenario	START	1717070981959
+REQUEST		bowling-score	1717070981959	1717070981960	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070981963
+USER	BowlingScoreScenario	START	1717070982068
+REQUEST		bowling-score	1717070982068	1717070982069	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982073
+USER	BowlingScoreScenario	START	1717070982162
+REQUEST		bowling-score	1717070982161	1717070982163	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982166
+USER	BowlingScoreScenario	START	1717070982272
+REQUEST		bowling-score	1717070982271	1717070982273	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982277
+USER	BowlingScoreScenario	START	1717070982368
+REQUEST		bowling-score	1717070982368	1717070982369	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982372
+USER	BowlingScoreScenario	START	1717070982462
+REQUEST		bowling-score	1717070982462	1717070982463	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982466
+USER	BowlingScoreScenario	START	1717070982572
+REQUEST		bowling-score	1717070982572	1717070982573	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982577
+USER	BowlingScoreScenario	START	1717070982667
+REQUEST		bowling-score	1717070982666	1717070982668	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982671
+USER	BowlingScoreScenario	START	1717070982762
+REQUEST		bowling-score	1717070982761	1717070982763	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982766
+USER	BowlingScoreScenario	START	1717070982869
+REQUEST		bowling-score	1717070982869	1717070982870	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982873
+USER	BowlingScoreScenario	START	1717070982964
+REQUEST		bowling-score	1717070982964	1717070982965	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070982969
+USER	BowlingScoreScenario	START	1717070983074
+REQUEST		bowling-score	1717070983073	1717070983075	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983078
+USER	BowlingScoreScenario	START	1717070983169
+REQUEST		bowling-score	1717070983168	1717070983170	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983174
+USER	BowlingScoreScenario	START	1717070983263
+REQUEST		bowling-score	1717070983263	1717070983264	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983268
+USER	BowlingScoreScenario	START	1717070983373
+REQUEST		bowling-score	1717070983373	1717070983374	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983378
+USER	BowlingScoreScenario	START	1717070983468
+REQUEST		bowling-score	1717070983467	1717070983469	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983472
+USER	BowlingScoreScenario	START	1717070983563
+REQUEST		bowling-score	1717070983563	1717070983564	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983568
+USER	BowlingScoreScenario	START	1717070983673
+REQUEST		bowling-score	1717070983672	1717070983674	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983678
+USER	BowlingScoreScenario	START	1717070983768
+REQUEST		bowling-score	1717070983768	1717070983769	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983773
+USER	BowlingScoreScenario	START	1717070983864
+REQUEST		bowling-score	1717070983864	1717070983865	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983869
+USER	BowlingScoreScenario	START	1717070983975
+REQUEST		bowling-score	1717070983974	1717070983976	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070983979
+USER	BowlingScoreScenario	START	1717070984069
+REQUEST		bowling-score	1717070984069	1717070984070	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070984074
+USER	BowlingScoreScenario	START	1717070984161
+REQUEST		bowling-score	1717070984161	1717070984162	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070984166
+USER	BowlingScoreScenario	START	1717070984269
+REQUEST		bowling-score	1717070984268	1717070984270	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070984274
+USER	BowlingScoreScenario	START	1717070984363
+REQUEST		bowling-score	1717070984362	1717070984364	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070984368
+USER	BowlingScoreScenario	START	1717070984475
+REQUEST		bowling-score	1717070984474	1717070984476	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070984480
+USER	BowlingScoreScenario	START	1717070984567
+REQUEST		bowling-score	1717070984567	1717070984569	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070984572
+USER	BowlingScoreScenario	START	1717070984662
+REQUEST		bowling-score	1717070984662	1717070984663	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070984667
+USER	BowlingScoreScenario	START	1717070984772
+REQUEST		bowling-score	1717070984772	1717070984774	KO	status.find.is(200), but actually found 201
+USER	BowlingScoreScenario	END	1717070984777

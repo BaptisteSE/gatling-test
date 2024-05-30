@@ -1,0 +1,10 @@
+{
+  "simulation": "tests.SmokeTest",
+  "simulationId": "smoketest-20240530121036582",
+  "start": 1717071037315,
+  "description": "",
+  "scenarios": ["BowlingScoreScenario"],
+  "assertions": [
+
+  ]
+}
