@@ -51,14 +51,27 @@ jobs:
         cd api-performance-test
         mvn -B clean install -e -X -DskipTests=true
 
-  test:
+  build_gatling:
     runs-on: ubuntu-latest
     needs: build
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-      
+
+    - name: Build Gatling Project with Maven
+      run: |
+        cd api-performance-test
+        mvn -B clean install -e -X -DskipTests=true
+
+  tests:
+    runs-on: ubuntu-latest
+    needs: [build, build_gatling]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
     - name: Set permissions for Jest
       run: chmod +x test-and-quality-bowling-score/node_modules/.bin/jest
 
