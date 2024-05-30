@@ -34,7 +34,7 @@ jobs:
 
   build_gatling:
     runs-on: ubuntu-latest
-    needs: build
+    needs: build  # This ensures build_gatling runs after build
 
     steps:
     - name: Checkout repository
@@ -61,7 +61,7 @@ jobs:
 
   tests:
     runs-on: ubuntu-latest
-    needs: [build, build_gatling]
+    needs: build_gatling  # This ensures tests run after build_gatling
 
     steps:
     - name: Checkout repository
