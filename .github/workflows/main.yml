@@ -44,7 +44,7 @@ jobs:
     - name: Build Gatling Project with Maven
       run: |
         cd api-performance-test
-        mvn -B clean install -e -X
+        mvn -B clean install -e -X -DskipTests=true
 
     - name: Run Gatling Load Tests
       run: cd api-performance-test && mvn gatling:test '-DclassName=tests.SmokeTest'
