@@ -42,8 +42,6 @@ jobs:
           ${{ runner.os }}-maven
 
     - name: Build Gatling Project with Maven
-      env:
-        MAVEN_OPTS: "-Xmx1024m -XX:MaxPermSize=256m"
       run: |
         cd api-performance-test
         mvn -B clean install -e -X
