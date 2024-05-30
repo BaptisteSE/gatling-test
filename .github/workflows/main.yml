@@ -42,7 +42,11 @@ jobs:
           ${{ runner.os }}-maven
 
     - name: Build Gatling Project with Maven
-      run: cd api-performance-test && mvn -B clean install
+      env:
+        MAVEN_OPTS: "-Xmx1024m -XX:MaxPermSize=256m"
+      run: |
+        cd api-performance-test
+        mvn -B clean install -e -X
 
     - name: Run Gatling Load Tests
       run: cd api-performance-test && mvn gatling:test '-DclassName=tests.SmokeTest'
